@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+.vscode/
+.idea/
+*.pyc
+tempCodeRunnerFile.py
