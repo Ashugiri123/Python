@@ -26,29 +26,38 @@ This repository contains Python programs and exercises created while learning co
 
 1. Clone the repository:
 
-   ```bash
-   git clone <your-repo-url>
-   ```
+```bash
+git clone <https://github.com/Ashugiri123/Python.git>
+```
+
 2. Navigate to the folder:
 
-   ```bash
-   cd PYTHON
-   ```
+```bash
+cd PYTHON
+```
+
 3. Run any file:
 
-   ```bash
-   python filename.py
-   ```
+```bash
+python 01_module.py   # or any other file
+```
 
 ## Requirements
 
 * Python 3.x
-* Some programs may require external libraries (e.g., `pyttsx3`)
 
-Install dependencies:
+### External Libraries Used
+
+Some programs in this repository use the following libraries:
+
+* `pyttsx3` → Text-to-speech conversion
+* `pyjokes` → Generate programming jokes
+* `pywin32` / `pypiwin32` → Windows-specific system operations
+
+### Install Dependencies
 
 ```bash
-pip install pyttsx3
+pip install pyttsx3 pyjokes pywin32 pypiwin32
 ```
 
 ## Purpose
