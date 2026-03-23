@@ -21,6 +21,24 @@ college ={
     "Student" :{
     "Name":"Ashutosh",
     "height":5.11
-    }
+    },
+    "no of student":1400
 }
 print(college)
+
+# functions of dictionary
+print(college.keys())
+
+
+print(Dict.copy())
+
+
+print(college.fromkeys(Dict,"masala"))
+
+
+print(college.setdefault("branch","ece"))
+
+
+Dict.setdefault("Ginger","Zesty")
+
+print(Dict)
