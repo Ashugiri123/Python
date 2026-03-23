@@ -11,3 +11,16 @@ print(Dict)
 Dict.pop("Ginger")
 print(Dict)
 print(Dict.popitem())
+
+
+# nested dictionary
+college ={
+    "branch":"cse",
+    "ClassRoom":"Kc-204",
+    "Section": 14,
+    "Student" :{
+    "Name":"Ashutosh",
+    "height":5.11
+    }
+}
+print(college)
