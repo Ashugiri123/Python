@@ -1,0 +1,4 @@
+this is a  file  which is used for file handeling related work so  use it as a trash file .
+this is the next line of my trash file.
+
+python is programming languageand its very easy to learn python used for multiple programming related things.
